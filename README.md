@@ -23,3 +23,4 @@ E.g. import Component from `[folder path]`.
 }
 ```
 2. Run react-native link.
+![Logo1](https://user-images.githubusercontent.com/57291591/175730106-2f5359bc-ad66-4ce8-bc41-c7a09c9230ee.png)
