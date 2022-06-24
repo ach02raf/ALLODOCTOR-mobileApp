@@ -1,8 +1,6 @@
 AlloDoctor-Mobile
 
-Ceci est le code FRONTEND de l'application mobile AlloDoctor devellopée en React Native 
-AlloDoctor est une application pour la prise de rendez-vous medicaux
-
+This is the FRONTEND code of the AlloDoctor mobile application developed in React Native AlloDoctor is an application for making medical appointments
 
 You can add these packages by running `yarn add [packageName]` or `npm install [packageName]`.
 
@@ -24,6 +22,6 @@ E.g. import Component from `[folder path]`.
 ```
 2. Run react-native link.
 
-Developpeur : ach02raf
+Developer: ach02raf "achraf ben fredj"
 
 ![Logo1](https://user-images.githubusercontent.com/57291591/175733166-abf2e698-a20f-4b5c-8c25-620327ba284e.png)
