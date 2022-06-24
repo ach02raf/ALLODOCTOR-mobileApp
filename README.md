@@ -1,14 +1,8 @@
-This component was created with [Builderx/utils@0.1.6
-                                   lodash
-                                   react-navigation@4.0.10
-                                   react-native-svg
-                                   react-native-maps
-                                   ```ilderX](https://builderx.io/).
+AlloDoctor-Mobile
 
-## BuilderX uses third party libraries for some of the react-native components such as
-
-```
-@bu
+Ceci est le code FRONTEND de l'application mobile AlloDoctor devellopée en React Native 
+AlloDoctor est une application pour la prise de rendez-vous medicaux
+Developpeur : ach02raf
 
 You can add these packages by running `yarn add [packageName]` or `npm install [packageName]`.
 
@@ -17,18 +11,6 @@ You can add these packages by running `yarn add [packageName]` or `npm install [
 E.g. import Component from `[folder path]`.
 
 **Note: You might need to load custom fonts that have been used in the component. Font files are available in the `assets/fonts` folder. You can add this code to load these fonts**
-
-### For Expo project
-
-```
-import { Font } from "expo";
-
-async componentDidMount(){
-  await Font.loadAsync({
-    <font-name>:require(<relative-path-to-font-file>)
-  })
-}
-```
 
 ### For React-Native project
 
